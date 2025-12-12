@@ -699,7 +699,7 @@ info{
   content: url("../../public/images/icon-success-dark.svg");
 }
 /* ===== 响应式布局 ===== */
-@media (min-width: 980px) {
+@media (min-width: 980px ) {
   .VPSidebar {
     padding-top: var(--vp-sidebar-nav-padding-top) !important;
   }
