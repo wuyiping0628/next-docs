@@ -1,12 +1,1 @@
-[submodule "tiny-robot"]
-	path = tiny-robot
-	url = git@github.com:opentiny/tiny-robot.git
-[submodule "tiny-engine"]
-	path = tiny-engine
-	url = git@github.com:opentiny/tiny-engine.git
-[submodule "next-sdk-new"]
-	path = next-sdk-new
-	url = git@github.com:wuyiping0628/next-sdk-new.git
-[submodule "tiny-vue"]
-	path = tiny-vue
-	url = git@github.com:wuyiping0628/tiny-vue.git
+
